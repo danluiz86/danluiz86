@@ -1,8 +1,6 @@
 ### Olá 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on on projects to start a SaaS startup.
 - 🌱 I’m currently learning PHP7 and Flutter.
 - 👯 I’m looking to collaborate on projects that can start a business.
